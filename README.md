@@ -59,6 +59,8 @@ User Uploads PDF Documents
           ↓
     Final AI Report
 ```
+## Live Demo
+https://document-missing-information-checker-mh9nkqkc2qrgjygx9sajzh.streamlit.app/
 
 ## Example
 
