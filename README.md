@@ -248,6 +248,13 @@ The sample demonstrates how the system can identify:
 * Missing fields
 * Possible mismatches
 
+## Sample Output
+<img width="924" height="722" alt="Screenshot 2026-10-08 162102" src="https://github.com/user-attachments/assets/359764f2-f200-4f7f-802d-62c0776e1ad7" />
+<img width="827" height="367" alt="Screenshot 2026-10-08 162202" src="https://github.com/user-attachments/assets/3e31bc0a-0038-4224-ad21-9a9a75747ae8" />
+<img width="744" height="702" alt="Screenshot 2026-10-08 162449" src="https://github.com/user-attachments/assets/f2648228-e9c2-4d00-a824-d0fab67426c5" />
+<img width="762" height="425" alt="Screenshot 2026-10-08 162553" src="https://github.com/user-attachments/assets/78a933ff-46c0-4655-a944-71e7e83054a2" />
+
+
 ## Project Objective
 
 The main objective of DocCheck AI is to reduce manual document verification effort and help users identify missing or incorrect information before submitting important applications.
